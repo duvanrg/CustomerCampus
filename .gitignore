@@ -396,8 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-# Img databases
-BD1.jpg
-BD2.jpg
-
