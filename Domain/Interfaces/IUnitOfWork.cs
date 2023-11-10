@@ -13,6 +13,6 @@ namespace Domain.Interfaces
         IPersonType PersonTypes {get;}
         IState States {get;}
 
-        public int Save();
+        Task<int> SaveAsync();
     }
 }
