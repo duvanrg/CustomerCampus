@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Persistence\\Persistence.csproj": {}
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\Domain.csproj": {
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\APM02-45\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-45\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -71,17 +71,17 @@
         }
       }
     },
-    "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\APM02-45\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Persistence\\obj\\",
+        "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\duvan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\APM02-45\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\duvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\APM02-45\\Documents\\Apolo-duban\\Jholver\\NetCore\\CustomerCampus\\Domain\\Domain.csproj"
+              "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\duvan\\Archivos\\CampusLand\\Programacion\\Skills\\netcore\\ProjectsnetCore\\4 layers\\CustomerCampus\\Domain\\Domain.csproj"
               }
             }
           }
